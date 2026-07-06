@@ -10,6 +10,7 @@ root.configure(bg="#1e1f29")
 #icon = tk.PhotoImage(file='')
 #root.iconphoto(True, icon)
 #equation = ""
+#Test edit 11:13 AM 07/06/2026 By NBD321
 
 def show(value):
     global equation
